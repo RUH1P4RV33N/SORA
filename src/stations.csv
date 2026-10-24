@@ -1,0 +1,51 @@
+site_id,station,city,state,latitude,longitude,region,cluster,role
+301,"Anand Vihar, Delhi - DPCC",Delhi,Delhi,28.647622,77.315809,gangetic_plain,Delhi,train
+,"Punjabi Bagh, Delhi - DPCC",Delhi,Delhi,28.674045,77.131023,gangetic_plain,Delhi,train
+,"R K Puram, Delhi - DPCC",Delhi,Delhi,28.563262,77.186937,gangetic_plain,Delhi,train
+,"Rohini, Delhi - DPCC",Delhi,Delhi,28.732528,77.11992,gangetic_plain,Delhi,train
+253,"Punjab Agricultural University, Ludhiana - PPCB",Ludhiana,Punjab,30.9028,75.8086,north_plains,Ludhiana,train
+256,"Golden Temple, Amritsar - PPCB",Amritsar,Punjab,31.62,74.876512,north_plains,Amritsar,train
+146,"Vikas Sadan, Gurugram - HSPCB",Gurugram,Haryana,28.4501238,77.0263051,north_plains,Gurugram,train
+5052,"Patti Mehar, Ambala - HSPCB",Ambala,Haryana,30.379589,76.778328,north_plains,Ambala,train
+5127,"Sector-25, Chandigarh - CPCC",Chandigarh,Chandigarh,30.751462,76.762879,north_plains,Chandigarh,train
+277,"Lalbagh, Lucknow - CPCB",Lucknow,Uttar Pradesh,26.8458805,80.9365541,gangetic_plain,Lucknow,train
+276,"Nehru Nagar, Kanpur - UPPCB",Kanpur,Uttar Pradesh,26.4703136,80.3229863,gangetic_plain,Kanpur,train
+273,"Ardhali Bazar, Varanasi - UPPCB",Varanasi,Uttar Pradesh,25.3505986,82.9083074,gangetic_plain,Varanasi,train
+307,"Sanjay Palace, Agra - UPPCB",Agra,Uttar Pradesh,27.19865833,78.00598056,gangetic_plain,Agra,train
+1393,"Adarsh Nagar, Jaipur - RSPCB",Jaipur,Rajasthan,26.902909,75.836858,arid_west,Jaipur,TEST
+136,"Collectorate, Jodhpur - RSPCB",Jodhpur,Rajasthan,26.268249,73.0193853,arid_west,Jodhpur,train
+157,"IGSC Planetarium Complex, Patna - BSPCB",Patna,Bihar,25.610369,85.132568,gangetic_plain,Patna,train
+309,"Victoria, Kolkata - WBPCB",Kolkata,West Bengal,22.5448082,88.3403691,east,Kolkata,train
+1419,"Ward-32 Bapupara, Siliguri - WBPCB",Siliguri,West Bengal,26.6879226,88.4152495,east,Siliguri,train
+254,"Tata Stadium, Jorapokhar - JSPCB",Jorapokhar,Jharkhand,23.707909,86.41467,east,Jorapokhar,train
+5940,"Lingraj Mandir, Bhubaneswar - OSPCB",Bhubaneswar,Odisha,20.24079,85.836784,east,Bhubaneswar,train
+5073,"Railway Colony, Guwahati - PCBA",Guwahati,Assam,26.181742,91.78063,north_east,Guwahati,TEST
+5392,"Bandra Kurla Complex, Mumbai - MPCB",Mumbai,Maharashtra,19.065931,72.862131,west_coast,Mumbai,TEST
+292,"Karve Road, Pune - MPCB",Pune,Maharashtra,18.5011743,73.8165527,deccan,Pune,train
+303,"Opp GPO Civil Lines, Nagpur - MPCB",Nagpur,Maharashtra,21.152875,79.0517531,central,Nagpur,train
+308,"Maninagar, Ahmedabad - GPCB",Ahmedabad,Gujarat,23.002657,72.591912,west_coast,Ahmedabad,train
+5664,"Science Center, Surat - SMC",Surat,Gujarat,21.170046,72.795405,west_coast,Surat,train
+5247,"T T Nagar, Bhopal - MPPCB",Bhopal,Madhya Pradesh,23.233584,77.400574,central,Bhopal,train
+5248,"Chhoti Gwaltoli, Indore - MPPCB",Indore,Madhya Pradesh,22.431,75.5213,central,Indore,train
+5652,"AIIMS, Raipur - CECB",Raipur,Chhattisgarh,21.258815,81.578979,central,Raipur,train
+162,"BTM Layout, Bengaluru - CPCB",Bengaluru,Karnataka,12.9135218,77.5950804,deccan,Bengaluru,train
+5421,"Kadri, Mangalore - KSPCB",Mangalore,Karnataka,12.88925,74.853,south_coast,Mangaluru,train
+288,"Velachery Res. Area, Chennai - CPCB",Chennai,Tamil Nadu,13.0052189,80.2398125,south_coast,Chennai,TEST
+5094,"SIDCO Kurichi, Coimbatore - TNPCB",Coimbatore,Tamil Nadu,10.942451,76.978996,deccan,Coimbatore,train
+298,"Zoo Park, Hyderabad - TSPCB",Hyderabad,Telangana,17.349694,78.451437,deccan,Hyderabad,train
+260,"GVM Corporation, Visakhapatnam - APPCB",Visakhapatnam,Andhra Pradesh,17.72,83.3,south_coast,Visakhapatnam,train
+252,"Plammoodu, Thiruvananthapuram - Kerala PCB",Thiruvananthapuram,Kerala,8.5149093,76.9435879,south_coast,Thiruvananthapuram,train
+5594,"Doon University, Dehradun - UKPCB",Dehradun,Uttarakhand,30.269444,78.044167,hills,Dehradun,TEST
+5424,"Rajbagh, Srinagar - JKSPCB",Srinagar,Jammu & Kashmir,34.066206,74.81982,hills,Srinagar,train
+,"Railway Colony, Barmer - RSPCB",Barmer,Rajasthan,25.747299,71.393989,arid_west,Barmer,train
+,"Sector-51, Gurugram - HSPCB",Gurugram,Haryana,28.4227,77.0667,north_plains,Gurugram,train
+,"Sector-12, Karnal - HSPCB",Karnal,Haryana,29.6953,77.0027,north_plains,Karnal,train
+,"Hadapsar, Pune - IITM",Pune,Maharashtra,18.501793,73.927532,deccan,Pune,train
+,"PSG College of Arts and Science, Coimbatore - TNPCB",Coimbatore,Tamil Nadu,11.0328,77.0349,deccan,Coimbatore,train
+,"Sardar Patel Nagar, Dhanbad - JSPCB",Dhanbad,Jharkhand,23.80569,86.44268,east,Dhanbad,train
+,"Worli, Mumbai - MPCB",Mumbai,Maharashtra,18.9936162,72.8128113,west_coast,Mumbai,train
+,"Kariavattom, Thiruvananthapuram - Kerala PCB",Thiruvananthapuram,Kerala,8.5637,76.8865,south_coast,Thiruvananthapuram,train
+,"Pan Bazaar, Guwahati - PCBA",Guwahati,Assam,26.1875,91.744194,north_east,Guwahati,train
+,"Shastri Nagar, Jaipur - RSPCB",Jaipur,Rajasthan,26.9502929,75.730943,arid_west,Jaipur,train
+,"Sector-10, Gandhinagar - GPCB",Gandhinagar,Gujarat,23.221714,72.654328,west_coast,Gandhinagar,train
+,"Talkatora District Industries Center, Lucknow - CPCB",Lucknow,Uttar Pradesh,26.83399722,80.8917361,gangetic_plain,Lucknow,train

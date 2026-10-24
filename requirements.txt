@@ -1,0 +1,7 @@
+pandas>=2.2
+numpy
+scikit-learn
+joblib
+openpyxl
+fastapi
+uvicorn
