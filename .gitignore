@@ -140,7 +140,7 @@ dist
 
 # SvelteKit build / generate output
 .svelte-kit
-.models/
+
 # End of https://www.toptal.com/developers/gitignore/api/node
 # Ignore dataset folders
 /data/raw/
@@ -181,8 +181,7 @@ data_1/
 .data/
 /data/
 # Model files and directories
-models/
-.models/
+
 # Python virtual environment
 venv/
 .venv/
@@ -192,5 +191,5 @@ env/
 .vscode/
 
 # Model directories
-/models/
+
 /results/
